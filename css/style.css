@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+.container {
+  margin: 100px auto;
+  width: 100%;
+  max-width: 1500px;
+}
+
+.block {
+  border: 1px solid black;
+  padding: 10px 30px;
+  background: #000;
+}
+
+a {
+  display: flex;
+  align-items: center;
+  font-size: 50px;
+  text-align: center;
+  color: white;
+  text-decoration: none;
+}/*# sourceMappingURL=style.css.map */
