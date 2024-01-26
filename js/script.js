@@ -301,7 +301,7 @@
 
 //8.2-misol  express function
 // Ixtiyoriy 3 xonali  sonni palidrom yoki palidrom emasligini tekshiruvchi funksiya yozing.
-// const res8 = function (n) {
+// const res8 = function    (n) {
 //     let result = ``;
 //     let b = n % 10;
 //     let o = Math.trunc(Math.floor(n % 100) / 10); 
